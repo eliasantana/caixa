@@ -1,1 +1,2 @@
 1 - Cadastro de funcionários
+2 - Cadastro de Produtos
